@@ -1,0 +1,53 @@
+POST  http://127.0.0.1:9090/resgister
+Content-Type: application/json
+{
+   "username": "babu",
+  "firstname": "babu",
+  "lastname": "bhai",
+  "email": "babu@bhai.com",
+  "password": "babu123",
+  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+  "userLevel": 2 
+}
+
+
+###
+POST http://127.0.0.1:9090/todos
+Content-Type: application/json
+Content-Type: application/json
+
+
+
+{
+  "username": "babu",
+  "firstname": "babu",
+  "lastname": "bhai",
+  "email": "babu@bhai.com",
+  "password": "babu123",
+  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+  "userLevel": 2
+}
+
+
+###
+POST http://127.0.0.1:9090/login
+Content-type: application/json
+
+{
+    "username":"admin",
+    "password":"admin"
+}
+
+###
+POST http://127.0.0.1:9090/users
+Content-Type: application/json
+
+{
+   "username": "babu",
+  "firstname": "babu",
+  "lastname": "bhai",
+  "email": "babu@bhai.com",
+  "password": "babu123",
+  "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+  "userLevel": 2 
+}

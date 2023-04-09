@@ -1,0 +1,31 @@
+#navbar{
+    background-color: black;
+    color: white;
+    height: 40px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#navbar>a{
+    color: white;
+}
+#input_data{
+    display: grid;
+   grid-template-columns: repeat(1,1fr);
+    width: 20%;
+    /* border: 1px solid rgb(19, 19, 19); */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: auto;
+    margin-top: 30px;
+}
+#mobile_form{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+     /* width: 100%; */
+     /* border: 1px solid green; */
+     margin: auto;
+     text-align: center;
+     gap: 20px;
+     
+}

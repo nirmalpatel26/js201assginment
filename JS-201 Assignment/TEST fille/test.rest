@@ -1,0 +1,45 @@
+POST https://jsonplaceholder.typicode.com/todos
+Content-Type: application/json
+
+{
+    "name": "NIrmal",
+    "lastname":"Patel"
+}
+###
+
+POST http://localhost:9090/users
+
+
+
+###
+
+GET http://127.0.0.1:9090/employees
+
+###
+
+PATCH http://127.0.0.1:9090/employees/PMvTmawoNU
+Content-Type: application/json
+
+{
+    "name":"Ujjaval",
+    "department":12,
+    "image":"/images/avatar/avatar1.jpeg",
+    "salary": "12000"
+}
+###
+PUT http://127.0.0.1:9090/employees/ISz0173JJx
+Content-Type: application/json
+
+{
+    "name":"Nirmal",
+    "department":12,
+    "image":"/images/avatar/avatar1.jpeg",
+    "salary": "120000"
+}
+
+###
+DELETE  https://jsonplaceholder.typicode.com/todos/1
+
+###
+
+GET https://reqres.in/api/users?page=2 

@@ -1,0 +1,92 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Arpit Mheta",
+      "image": "/images/avatar/avatar2.jpeg",
+      "empDES": "12",
+      "salary": "34000"
+    },
+    {
+      "id": 2,
+      "name": "Flossy Arrell",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 2,
+      "salary": 20000
+    },
+    {
+      "id": 3,
+      "name": "Giorgio Antonioni",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 3,
+      "salary": 95000
+    },
+    {
+      "name": "Himanshu",
+      "image": "/images/avatar/avatar2.jpeg",
+      "department": 4,
+      "salary": 100000,
+      "createdAt": 1670325954162,
+      "id": "tEYFrHNsdO"
+    },
+    {
+      "name": "John Doe",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 1,
+      "salary": 80000,
+      "id": "R4dvtugCT2"
+    },
+    {
+      "name": "Nirmal",
+      "department": 12,
+      "image": "/images/avatar/avatar1.jpeg",
+      "salary": "120000",
+      "id": "ISz0173JJx"
+    },
+    {
+      "name": "Ujjaval",
+      "department": 12,
+      "image": "/images/avatar/avatar1.jpeg",
+      "salary": "12000",
+      "id": "PMvTmawoNU"
+    },
+    {
+      "name": "dharmesh",
+      "image": "/images/avatar/avatar1.jpeg",
+      "empDES": "123",
+      "salary": "12000",
+      "createdAt": 1679172017327,
+      "id": "9sKDtyAQyd"
+    },
+    {
+      "name": "arpit",
+      "image": "/images/avatar/avatar1.jpeg",
+      "empDES": "12",
+      "salary": "500000",
+      "createdAt": 1679172126236,
+      "id": "32Cxv2mtvf"
+    },
+    {
+      "id": "6Hop4JYayc",
+      "name": "jagdish",
+      "image": "/images/avatar/avatar2.jpeg",
+      "department": "123",
+      "salary": "123456"
+    },
+    {
+      "id": "1gb3EqVjKC",
+      "name": "ravi",
+      "image": "/images/avatar/avatar2.jpeg",
+      "department": "2",
+      "salary": "90000"
+    },
+    {
+      "name": "ram ",
+      "image": "/images/avatar/avatar2.jpeg",
+      "department": "1",
+      "salary": "30000",
+      "createdAt": 1679242306489,
+      "id": "0SQWooqWzX"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+#navbar{
+    background-color: black;
+    color: white;
+    height: 40px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#navbar>a{
+    color: white;
+}
+#block-2{
+    display: flex;
+    align-items: center;
+}
+#mobile_list{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    /* border: 1px solid red; */
+    margin: auto;
+
+}
+#mobile_list>div{
+    /* border: 1px solid red; */
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: auto;
+    margin-top: 20px;
+}
+div>img{
+    width: 50%;
+    margin-top: 20px;
+}
+div>button{
+    margin-bottom: 20px;
+}
+#sort_filter{
+    display: flex;
+    flex-direction: column;
+}

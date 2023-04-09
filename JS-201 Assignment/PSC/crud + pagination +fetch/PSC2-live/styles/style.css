@@ -1,0 +1,61 @@
+reusable
+
+.capsule {
+  height: 26px;
+  line-height: 26px;
+  border-radius: 10px;
+}
+
+
+
+
+
+#main_container {
+  display: flex;
+}
+
+.container {
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+
+
+
+/* individual card  */
+.card {
+  background-color: white;
+  font-size: 20px;
+
+}
+.card__body{
+border: 1px solid #E1E1E1;
+
+}
+
+
+.card-title {
+  margin: 0;
+  color: #1c1c1c;
+  font-size: 18px;
+
+}
+
+
+.card-description {
+  font-size: 15px;
+  color: #696969;
+  line-height: 1.5;
+}
+
+/* pagination section */
+.pagination-wrapper {
+  border: 1px dashed #E1E1E1;
+  border-radius: 4px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+
